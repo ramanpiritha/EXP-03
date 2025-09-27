@@ -78,12 +78,12 @@ b) SPDT (XOR):
 
 a) SPDT (XNOR):
 
-![WhatsApp Image 2025-09-27 at 2 02 27 PM](https://github.com/user-attachments/assets/da9ad2a7-96c9-4d82-b162-c3a770d69907)
 	
+![WhatsApp Image 2025-09-27 at 2 02 29 PM](https://github.com/user-attachments/assets/fb278689-ead3-4b18-a552-d922b4994557)
 
 
 b) SPDT (XOR):
-![WhatsApp Image 2025-09-27 at 2 02 29 PM](https://github.com/user-attachments/assets/fb278689-ead3-4b18-a552-d922b4994557)
+![WhatsApp Image 2025-09-27 at 2 02 27 PM](https://github.com/user-attachments/assets/da9ad2a7-96c9-4d82-b162-c3a770d69907)
 
 
 # RESULT:
